@@ -1,0 +1,15 @@
+section {
+    display: flex;
+}
+
+.out10 {
+    width: 20%;
+    height: 300px;
+    background-color: black;
+    margin-right: 10px;
+}
+
+.out1010 {
+    border-radius: 10px;
+    border: 10px red solid;
+}

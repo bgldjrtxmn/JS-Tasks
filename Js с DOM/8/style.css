@@ -1,0 +1,13 @@
+section {
+    display: flex;
+}
+
+.out8 {
+    width: 25%;
+    height: 300px;
+    margin-left: 10px;
+}
+
+.out88 {
+    background-color: black;
+}
